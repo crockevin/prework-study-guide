@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this webpage, open up the consle in inspect, and either use the refresh button or hit ctrl + R to refresh the page and itll give you a randomlly selective topic to study
+To use this webpage, open up the console in inspect, and either use the refresh button or hit ctrl + R to refresh the page and it'll give you a randomly selective topic to study
 
 ## Credits
 
